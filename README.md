@@ -1,3 +1,3 @@
 # Introdu-o-html-css
 
-<img src="site.jpg"></img>
+<img src="site.png"></img>
